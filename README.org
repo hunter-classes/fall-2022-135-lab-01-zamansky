@@ -8,8 +8,6 @@
 
 * Notes:
 
-A note to show a pull
-
 
 * General instructions:
 - Fill in your name and GitHub username on top. Do so by adding the
