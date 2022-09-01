@@ -1,13 +1,12 @@
 * Fall 2022 - Lab 01
 
-* Last name: 
+* Last name: Zamansky
 
-* First name: 
+* First name: Michael
 
-* GitHub username: 
+* GitHub username: zamansky
 
 * Notes:
-
 
 
 * General instructions:
